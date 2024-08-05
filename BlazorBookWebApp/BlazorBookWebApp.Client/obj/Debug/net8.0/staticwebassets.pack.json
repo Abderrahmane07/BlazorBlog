@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\a.larchi\\source\\repos\\MyBlog\\BlazorBookWebApp\\BlazorBookWebApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\a.larchi\\source\\repos\\MyBlog\\BlazorBookWebApp\\BlazorBookWebApp.Client\\obj\\Debug\\net8.0\\compressed\\ra2t49ig4l.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\a.larchi\\source\\repos\\MyBlog\\BlazorBookWebApp\\BlazorBookWebApp.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\a.larchi\\source\\repos\\MyBlog\\BlazorBookWebApp\\BlazorBookWebApp.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorBookWebApp.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorBookWebApp.Client.props",
+      "PackagePath": "build\\BlazorBookWebApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorBookWebApp.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorBookWebApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorBookWebApp.Client.props",
+      "PackagePath": "buildTransitive\\BlazorBookWebApp.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

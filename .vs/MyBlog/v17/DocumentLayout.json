@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a.larchi\\source\\repos\\MyBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB060170-0973-4398-9980-FA8358AF237D}|BlazorBookWebApp\\BlazorBookWebApp.Client\\BlazorBookWebApp.Client.csproj|c:\\users\\a.larchi\\source\\repos\\myblog\\blazorbookwebapp\\blazorbookwebapp.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB060170-0973-4398-9980-FA8358AF237D}|BlazorBookWebApp\\BlazorBookWebApp.Client\\BlazorBookWebApp.Client.csproj|solutionrelative:blazorbookwebapp\\blazorbookwebapp.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\a.larchi\\source\\repos\\MyBlog\\BlazorBookWebApp\\BlazorBookWebApp.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorBookWebApp\\BlazorBookWebApp.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\a.larchi\\source\\repos\\MyBlog\\BlazorBookWebApp\\BlazorBookWebApp.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorBookWebApp\\BlazorBookWebApp.Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T15:42:56.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
