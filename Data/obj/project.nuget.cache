@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5RxrNoew4WmQw1awIx3VjQqk/eX2TEcVUPWBcLDqJXArjswxEoNHz0huIBKj4TDI1iqeQf5DQoz/yYQHLEv2pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.larchi\\source\\repos\\MyBlog\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.larchi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.larchi\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\a.larchi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

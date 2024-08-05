@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBookWebApp", "BlazorB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBookWebApp.Client", "BlazorBookWebApp\BlazorBookWebApp.Client\BlazorBookWebApp.Client.csproj", "{BB060170-0973-4398-9980-FA8358AF237D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8A5BBC3E-EB5B-4F84-82C7-3B637C693481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.Models", "Data.Models\Data.Models.csproj", "{FC82CB67-E0A6-4833-916D-47A848832727}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BB060170-0973-4398-9980-FA8358AF237D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB060170-0973-4398-9980-FA8358AF237D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB060170-0973-4398-9980-FA8358AF237D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5BBC3E-EB5B-4F84-82C7-3B637C693481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5BBC3E-EB5B-4F84-82C7-3B637C693481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5BBC3E-EB5B-4F84-82C7-3B637C693481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5BBC3E-EB5B-4F84-82C7-3B637C693481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC82CB67-E0A6-4833-916D-47A848832727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC82CB67-E0A6-4833-916D-47A848832727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC82CB67-E0A6-4833-916D-47A848832727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC82CB67-E0A6-4833-916D-47A848832727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
